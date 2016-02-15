@@ -1,7 +1,4 @@
 #Team3
-<<<<<<< HEAD
-
 Dominik Cvjetkovic
-=======
 Antonio Sutalo
->>>>>>> origin/master
+
