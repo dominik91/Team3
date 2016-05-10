@@ -1,0 +1,48 @@
+<data>
+	<album>
+		<name>Album1</name>
+		<img>balloon-hot-air.jpg</img>
+		<img>beaver-lodge-on-martin-lake.jpg</img>
+		<img>beer-and-bread.jpg</img>
+		<img>bengal-tiger.jpg</img>
+		<img>biking-at-chincoteague-national-wildlife-refuge.jpg</img>
+	</album>
+
+	<album>
+		<name>Album2</name>
+		<img>cactus-photo.jpg</img>
+		<img>chinese-dragons-flat-stanley.jpg</img>
+		<img>cliffs-yosemite-halfdome-sierras.jpg</img>
+		<img>columbia-shuttle-start.jpg</img>
+		<img>balloon-hot-air.jpg</img>
+		<img>bengal-tiger.jpg</img>
+		<img>biking-at-chincoteague-national-wildlife-refuge.jpg</img>
+	</album>
+	
+	<album>
+		<name>Album3</name>
+		<img>decomposing-cow-skull.jpg</img>
+		<img>first-man-on-moon-walking-on-the-moon.jpg</img>
+		<img>great-fireworks-night.jpg</img>
+		<img>man-checking-gill-nets.jpg</img>
+		<img>rock-climber-on-the-wall.jpg</img>
+		<img>soldier-on-military-boat.jpg</img>
+		<img>spring-in-hills.jpg</img>
+	</album>
+
+	<album>
+		<name>Album4</name>
+		<img>the-manna-organic-shop-kilcullen.jpg</img>
+		<img>tower-bridge-in-london-england.jpg</img>
+		<img>winter-road.jpg</img>
+		<img>wooden-window.jpg</img>
+		<img>yankees-stadium-crowd.jpg</img>
+		<img>yard-gate.jpg</img>
+	</album>
+
+	<album>
+		<name>PNG-GIF</name>
+		<img>banana.png</img>
+		<img>dancing-banana.gif</img>
+	</album>
+</data>

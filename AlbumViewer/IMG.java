@@ -76,11 +76,26 @@ public class IMG
    {
       try
       {
-         ImageIO.write(img, "jpg", new File("edited" + f.getName()));
+         String type = getType();
+         if(type.equals("jpg"))
+         {
+            ImageIO.write(img, "jpg", new File("edited" + f.getName()));
+         }
+         else if(type.equals("png"))
+         {
+            ImageIO.write(img, "png", new File("edited" + f.getName()));
+         }
+ 
+            
       }
       catch(Exception e)
       {
          System.out.println(e.getMessage());            
       }
+   }
+   
+   public String getType()
+   {
+      return f.getName().substring(f.getName().length()-3, f.getName().length());
    }
 }

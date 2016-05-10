@@ -60,7 +60,7 @@ public class IMGEditor
    //method recreates a buffered image after transformation was done on it using the affine transform 
    private static BufferedImage createTransformed(BufferedImage image, AffineTransform at)
    {
-      BufferedImage newImage = new BufferedImage(image.getWidth(), image.getHeight(),BufferedImage.TYPE_INT_RGB);
+      BufferedImage newImage = new BufferedImage(image.getWidth(), image.getHeight(),BufferedImage.TYPE_INT_ARGB);
       Graphics2D g = newImage.createGraphics();
       g.transform(at);
       g.drawImage(image, 0, 0, null);
